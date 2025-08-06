@@ -8,7 +8,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
   const pageTitle = `${
     currentPage === "Home"
               ? "Azza Elmhaedhbi - Web Developer, Designer, Creator."
-      : `${currentPage} - BraydenTW.io`
+              : `${currentPage} - AzzaElmhadhebi.io`
   }`;
   console.log(currentPage);
   return (

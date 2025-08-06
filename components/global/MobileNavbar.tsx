@@ -38,11 +38,9 @@ export default function MobileNavbar() {
       >
         <li className="list-none font-bold text-lg">
           <Link href="/">
-            <img
-              className="mr-3"
-              src="/static/logos/logo_full.svg"
-              width="160"
-            />
+            <span className="text-xl font-black text-white">
+              azza mokhtar
+            </span>
           </Link>
         </li>
         <button

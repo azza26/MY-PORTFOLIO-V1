@@ -69,7 +69,7 @@ export const footer: Footer = {
       links: [
         {
           name: "GitHub",
-          link: "https://github.com/braydentw",
+          link: "https://github.com/azza26",
           icon: "/static/icons/github-f.svg",
           leavesWebsite: true,
         },
