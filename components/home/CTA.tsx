@@ -9,7 +9,9 @@ function CTA() {
           Interested in Working Together?
         </h2>
         <a
-          href="mailto:contact@braydentw.io"
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=mhedhbiazza62@gmail.com&su=Portfolio%20Inquiry&body=Hello%20Azza,%0A%0AI%20saw%20your%20portfolio%20and%20would%20like%20to%20discuss%20working%20together.%0A%0ABest%20regards,"
+          target="_blank"
+          rel="noopener noreferrer"
           className="cursor-pointer font-bold whitespace-nowrap 
         mt-6 px-8 py-3 text-white border-2 rounded-full border-white bg-bg hover:bg-fun-pink hover:border-fun-pink transition-colors"
         >

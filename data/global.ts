@@ -15,11 +15,6 @@ type FooterCol = {
 
 type Footer = {
   columns: FooterCol[]
-  support: {
-    buymeacoffee: string
-    paypal: string
-    message: string
-  }
 };
 
 export const routes: Route[] = [
@@ -80,34 +75,17 @@ export const footer: Footer = {
         },
         {
           name: "LinkedIn",
-          link: "https://www.linkedin.com/in/braydentw/",
+          link: "https://www.linkedin.com/in/mhedhbi-azza-38122b376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
           icon: "/static/icons/linkedin-f.svg",
           leavesWebsite: true,
         },
         {
-          name: "Dribbble",
-          link: "https://dribbble.com/braydentw",
-          icon: "/static/icons/dribbble-f.svg",
-          leavesWebsite: true,
-        },
-        {
-          name: "IndieHackers",
-          link: "https://indiehackers.com/braydentw",
-          icon: "/static/icons/indiehackers-f.svg",
-          leavesWebsite: true,
-        },
-        {
           name: "Email",
-          link: "mailto:contact@braydentw.io",
+          link: "mailto:mhedhbiazza62@gmail.com",
           icon: "/static/icons/mail-f.svg",
           leavesWebsite: true,
         },
       ],
     },
   ],
-  support: {
-    buymeacoffee: "braydenw",
-    paypal: "braydentw",
-    message: "I appreciate your support very much! 💙",
-  },
 };
