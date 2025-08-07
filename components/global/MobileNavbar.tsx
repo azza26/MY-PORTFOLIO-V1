@@ -39,7 +39,7 @@ export default function MobileNavbar() {
         <li className="list-none font-bold text-lg">
           <Link href="/">
             <span className="text-xl font-black text-white">
-              azza mokhtar
+    Azza Elmhadhebi 
             </span>
           </Link>
         </li>
