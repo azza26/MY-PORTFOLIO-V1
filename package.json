@@ -4,9 +4,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "serve": "next serve",
-    "install": "npm install --legacy-peer-deps",
-    "postinstall": "npm install --legacy-peer-deps"
+    "serve": "next serve"
   },
   "dependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
